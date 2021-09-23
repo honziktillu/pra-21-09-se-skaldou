@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Zelena je trava, zajda neda klik");
         System.out.println("Dalsi zmena");
         System.out.println("Zajda ten klik udelal");
-        System.out.println("PogChamp 1");
+        System.out.println("PogChamp 0");
     }
 }
