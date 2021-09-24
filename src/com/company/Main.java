@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Dalsi zmena");
         System.out.println("Zajda ten klik udelal");
         System.out.println("PogChamp 0");
+        System.out.println("Zajda ten klik neudelal lol");
     }
 }
